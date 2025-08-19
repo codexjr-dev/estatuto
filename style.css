@@ -1,0 +1,52 @@
+@font-face {
+    font-family: ubuntu-regular;
+    src: url("./fonts/Ubuntu/Ubuntu-Regular.ttf");
+}
+
+@font-face {
+    font-family: ubuntu-italic;
+    src: url("./fonts/Ubuntu/Ubuntu-Italic.ttf");
+}
+
+@font-face {
+    font-family: ubuntu-bold;
+    src: url("./fonts/Ubuntu/Ubuntu-Bold.ttf");
+}
+
+@font-face {
+    font-family: ubuntu-bold-italic;
+    src: url("./fonts/Ubuntu/Ubuntu-BoldItalic.ttf");
+}
+
+@font-face {
+    font-family: ubuntu-light;
+    src: url("./fonts/Ubuntu/Ubuntu-Light.ttf");
+}
+
+@font-face {
+    font-family: ubuntu-light-italic;
+    src: url("./fonts/Ubuntu/Ubuntu-LightItalic.ttf");
+}
+
+@font-face {
+    font-family: ubuntu-medium;
+    src: url("./fonts/Ubuntu/Ubuntu-Medium.ttf");
+}
+
+@font-face {
+    font-family: ubuntu-medium-italic;
+    src: url("./fonts/Ubuntu/Ubuntu-MediumItalic.ttf");
+}
+
+body {
+    margin-left: 5;
+    margin-right: 5;
+}
+
+.titulo.h1 {
+    font-family: ubuntu-italic;
+}
+
+html * {
+    font-family: ubuntu-regular;
+}
